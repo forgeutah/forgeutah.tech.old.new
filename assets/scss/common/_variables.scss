@@ -15,14 +15,14 @@ $black:    #000;
 $yellow:   #ffe000;
 $black:    #1d2d35;
 $beige:    #fbf7f0;
-// $red:      #e55235;
+$red:      #AD2D27;
 $purple:   #5d2f86;
 $brown:    #aa9c84;
 
 $blue-300: #8ed6fb;
 $pink-500: #d32e9d;
 
-$primary: $purple;
+$primary: $red;
 
 // Options
 //
@@ -31,7 +31,7 @@ $primary: $purple;
 $enable-caret:                true;
 $enable-rounded:              true;
 $enable-shadows:              false;
-$enable-gradients:            false;
+$enable-gradients:            true;
 $enable-transitions:          true;
 $enable-reduced-motion:       true;
 $enable-smooth-scroll:        true;
