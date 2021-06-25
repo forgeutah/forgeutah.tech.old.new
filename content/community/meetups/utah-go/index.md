@@ -15,6 +15,7 @@ foodSponsor:
 menu:
   docs:
     parent: "meetups"
+weight: 20
 
 ---
 
